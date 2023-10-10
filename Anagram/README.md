@@ -1,6 +1,6 @@
 # Anagram
 
-Quick start:
+Quick start!:
 
 ```
 $ yarn # npm install
