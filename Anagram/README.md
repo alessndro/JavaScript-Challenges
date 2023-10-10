@@ -1,4 +1,4 @@
-# coe754914928cd9cc96501f48
+# Anagram
 
 Quick start:
 
